@@ -5,6 +5,10 @@ Return the first array value with the smallest derived key.
 ```ts
 import { minBy } from "@lucid-softworks/array-min-by";
 
+const users = [
+  { name: "Ada", score: 8 },
+  { name: "Grace", score: 10 },
+];
 minBy(users, (user) => user.score);
 ```
 
