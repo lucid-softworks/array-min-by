@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/array-min-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find the array value with the smallest derived key.",
   "keywords": [
     "array",
